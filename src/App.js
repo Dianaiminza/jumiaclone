@@ -9,7 +9,7 @@ import Login from "./Componets/Login";
 import Footer from "./Componets/Footer";
 import Categories from "./Componets/Categories";
 import { useStateValue } from "../src/ContextAPI/StateProvider";
-import { auth } from "./FireBase/Firebase";
+import { auth } from "../src/FireBase/Firebase";
 import { Unsubscribe } from "@material-ui/icons";
 
 function App() {
